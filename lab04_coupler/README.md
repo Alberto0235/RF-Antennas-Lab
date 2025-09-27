@@ -1,7 +1,7 @@
 # Lab 04 – Directional Coupler Design and Construction
 
-**Course:** RF Antennas Laboratory (Bachelor, University of Bologna)
-**Date of work:** May 20, 2024
+**Course:** RF Antennas Laboratory (Bachelor, University of Bologna)  
+**Date of work:** May 20, 2024  
 **Contributors:** Project developed as part of a course. Collaborators are not listed here.
 
 ## Short Summary
