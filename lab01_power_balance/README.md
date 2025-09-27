@@ -1,8 +1,8 @@
 # Homework 1 — Power Balance in Resonant Circuits
 
 **Course:** RF Antennas Laboratory (Bachelor, University of Bologna)  
-**Date of work:** March 2024 (approx. 25 March 2024)  
-**Contributors:** Project developed as part of a course. Peers omitted pending consent.
+**Date of work:** March 2024  
+**Contributors:** Project developed as part of a course. Peers omitted.
 
 ## Contents
 - `Homework1_Report.pdf` — Full translated report (English).  
