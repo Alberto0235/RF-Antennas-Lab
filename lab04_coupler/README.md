@@ -6,7 +6,7 @@
 
 ## Short Summary
 
-This project involves the design, simulation, and practical construction of a directional coupler. The design was performed using AWR, including the TXLine tool to optimize transmission line widths and other key parameters. The simulation phase allowed the analysis of S-parameters, coupling factor, directivity, and isolation to ensure the directional coupler meets the desired performance specifications.
+This project involves the design, simulation, and construction of a directional coupler. The design was performed using AWR, including the TXLine tool to optimize transmission line widths and other key parameters. The simulation phase allowed the analysis of S-parameters, coupling factor, directivity, and isolation to ensure the directional coupler meets the desired performance specifications.
 
 The practical construction involved using adhesive copper on an FR-4 substrate (Isola DE104). The ground plane and coupler were cut from copper sheets according to the simulated dimensions. SMA female connectors were soldered for measurement, and performance verification was done using a nanoVNA.
 
