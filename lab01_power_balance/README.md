@@ -1,0 +1,29 @@
+# Homework 1 — Power Balance in Resonant Circuits
+
+**Course:** RF Antennas Laboratory (Bachelor, University of Bologna)  
+**Date of work:** March 2024 (approx. 25 March 2024)  
+**Contributors:** Project developed as part of a course. Peers omitted pending consent.
+
+## Contents
+- `Homework1_Report.pdf` — Full translated report (English).  
+- `Dipole_0.25lambda.nec` — NEC model for the 0.25λ dipole.  
+- `Dipole_1.2lambda.nec` — NEC model for the 1.2λ dipole.  
+- `plot_ddr_dipole.m` — MATLAB script used to compute radiation resistance, radiated power and directivity gain.  
+- `results/` — radiation patterns, S11 plots, pictures (if any).
+
+## Short summary
+- Power balance on a resonant circuit (resonant vs off-resonant conditions).  
+- Numerical computation of radiated power, radiation resistance and directivity gain for dipoles at 2l = 0.25λ and 2l = 1.2λ.  
+- 4NEC simulations: radiation pattern, gain, SWR and reflection coefficient around the working frequency (2 GHz).
+
+## How to reproduce
+1. Open NEC models with 4NEC2 (or compatible NEC viewer) and run the simulations.  
+2. Run `plot_ddr_dipole.m` in MATLAB (or Octave) to reproduce radiation resistance and gain results.  
+3. Figures are available in `results/`.
+
+## License
+Reports: CC BY 4.0.  
+Code / simulation files: MIT License.
+
+## Notes
+The project was performed during the Bachelor RF course. Collaborators are not listed here.
