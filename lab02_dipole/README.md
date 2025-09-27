@@ -1,7 +1,7 @@
 # Lab 02 – Electromagnetic Dipole Design and Construction
 
 **Course:** RF Antennas Laboratory (Bachelor, University of Bologna)  
-**Date of work:** April 2024  
+**Date of work:** April 7, 2024  
 **Contributors:** Project developed as part of a course. Collaborators are not listed here.
 
 ## Short Summary
