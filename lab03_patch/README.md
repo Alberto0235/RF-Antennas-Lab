@@ -1,7 +1,7 @@
 # Lab 03 – Patch Antenna Design and Construction
 
-**Course:** RF Antennas Laboratory (Bachelor, University of Bologna)
-**Date of work:** April 26, 2024
+**Course:** RF Antennas Laboratory (Bachelor, University of Bologna)  
+**Date of work:** April 26, 2024  
 **Contributors:** Project developed as part of a course. Collaborators are not listed here.
 
 ## Short Summary 
