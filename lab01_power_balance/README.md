@@ -1,7 +1,7 @@
 # Lab 01 – Power Balance in Resonant Circuits
 
 **Course:** RF Antennas Laboratory (Bachelor, University of Bologna)  
-**Date of work:** March 2024  
+**Date of work:** March 25, 2024  
 **Contributors:** Project developed as part of a course. Collaborators are not listed here.
 
 ## Contents
