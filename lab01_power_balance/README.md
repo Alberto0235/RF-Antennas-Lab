@@ -1,4 +1,4 @@
-# Homework 1 — Power Balance in Resonant Circuits
+# Lab 01 – Power Balance in Resonant Circuits
 
 **Course:** RF Antennas Laboratory (Bachelor, University of Bologna)  
 **Date of work:** March 2024  
