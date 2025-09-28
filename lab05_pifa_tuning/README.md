@@ -1,7 +1,7 @@
 # Lab 05 – PIFA Antenna Tuning with CST
 
-**Course:** RF Antennas Laboratory (Bachelor, University of Bologna)
-**Date of work:** May 25, 2024
+**Course:** RF Antennas Laboratory (Bachelor, University of Bologna)  
+**Date of work:** May 20, 2024  
 **Author:** Alberto Marrone
 
 ## Short summary
@@ -18,8 +18,8 @@
 ## Files Included
 
 * `Homework2_Report.pdf` — Full report (English).
-* `pifa_coax_rogers_1.cst` — CST simulation file (Rogers substrate).
-* `pifa_coax_rogers_1_air.cst` — CST simulation file (Air substrate).
+* `PIFA_Coax_Rogers_1.cst` — CST simulation file (Rogers substrate).
+* `PIFA_Coax_Rogers_1_air.cst` — CST simulation file (Air substrate).
 
 ## How to reproduce
 
