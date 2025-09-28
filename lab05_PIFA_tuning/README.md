@@ -4,7 +4,7 @@
 **Date of work:** May 20, 2024  
 **Author:** Alberto Marrone
 
-## Short summary
+## 📌 Short summary
 
 * Starting from the provided CST model of a PIFA antenna tuned at 3.45 GHz, the antenna was retuned to work at 3.2 GHz.
 * Parameter sweeps were performed on patch width and feeding position to achieve the target frequency.
@@ -15,7 +15,7 @@
 * Results include S11 plots, directivity, IEEE gain, realized gain, 2D radiation patterns and 3D far-field radiation diagrams.
 * Efficiency comparison: Rogers substrate (15.59%) vs air substrate (67.85%).
 
-## Files Included
+## 📂 Included Files
 
 * `Homework5_Report.pdf` — Full report (English).
 * `PIFA_Coax_Rogers_1.cst` — CST simulation file (Rogers substrate).
