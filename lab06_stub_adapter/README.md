@@ -1,10 +1,9 @@
 
 # Lab 06 – Stub Adapter Design
 
-**Date:** May 20, 2024
-**Course:** Antennas and Wireless Systems Laboratory
-
----
+**Course:** RF Antennas Laboratory (Bachelor, University of Bologna)  
+**Date of work:** April 7, 2024  
+**Contributors:** Project developed as part of a course. Collaborators are not listed here.
 
 ## 📌 Short Summary
 
@@ -14,27 +13,16 @@ The entire process offered the opportunity to connect theory with practice: whil
 
 This lab therefore served as a valuable step in learning how to translate electromagnetic simulations into real hardware, combining software tools with hands-on prototyping.
 
----
-
-## 🛠️ Tools and Software
-
-* **AWR Microwave Office** (circuit modeling, parameter optimization, S11 analysis)
-* **nanoVNA** (experimental measurement of S11)
-* **TXLine tool** (for transmission line dimensioning)
-* **Isola DE104 FR-4 substrate** (εr = 4.35, tan δ = 0.023, thickness = 1 mm)
-* **Adhesive copper foil and SMA connectors** (for physical realization)
-
----
-
 ## 📂 Included Files
 
-* `Homework2_Report.pdf` – Complete laboratory report, including introduction, methodology, circuit schematics, simulation results, construction details, and conclusions.
+- `Homework2_Report.pdf` – Complete laboratory report, including introduction, methodology, circuit schematics, simulation results, construction details, and conclusions.
 
----
+## How to Reproduce
+Follow the instructions in the PDF for:  
+1. Performing the simulation steps.  
+2. Building and testing the Stub.
 
-## ✅ Learning Outcomes
+## License
+**Reports:** CC BY 4.0 
 
-* Understanding the role of stub adapters in impedance matching.
-* Gaining practical experience with **simulation-to-prototype workflows**.
-* Measuring and validating the response of a fabricated microwave circuit.
-* Recognizing the gap between theoretical design and real implementation.
+**Note:** Collaborators are not listed here.
