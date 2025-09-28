@@ -2,7 +2,7 @@
 
 **Course:** RF Antennas Laboratory (Bachelor, University of Bologna)  
 **Date of work:** March 25, 2024  
-**Contributors:** *Alberto Marrone
+**Author:** Alberto Marrone
 
 ## 📌 Short Summary
 - Power balance on a resonant circuit (resonant vs off-resonant conditions).  
