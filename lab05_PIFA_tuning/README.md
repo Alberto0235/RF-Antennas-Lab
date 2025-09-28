@@ -15,6 +15,18 @@
 * Results include S11 plots, directivity, IEEE gain, realized gain, 2D radiation patterns and 3D far-field radiation diagrams.
 * Efficiency comparison: Rogers substrate (15.59%) vs air substrate (67.85%).
 
+* ## 📌 Short Summary
+
+In this laboratory, the task was to retune a **PIFA antenna modeled in CST**, originally operating at 3.45 GHz, so that it resonated instead at 3.2 GHz. The process involved carrying out **parameter sweeps on the patch width and the feeding position**, which progressively shifted the resonance frequency until the target value was reached.
+
+Two main configurations were then investigated in order to compare their performance:
+
+* **PIFA with Rogers substrate**, which after tuning achieved resonance at 3.2 GHz with an efficiency of about **15.6%**.
+* **PIFA with air substrate**, where the absence of dielectric material led to a significant increase in efficiency, reaching around **67.9%** after re-optimization.
+
+For both cases, complete sets of results were produced, including **S11 plots, directivity, IEEE gain, realized gain, 2D radiation diagrams, and 3D far-field radiation patterns**. The comparison highlights how substrate choice strongly affects antenna efficiency, even when the resonance frequency is correctly adjusted.
+
+
 ## 📂 Included Files
 
 * `Homework5_Report.pdf` — Full report (English).
