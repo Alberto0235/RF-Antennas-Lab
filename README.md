@@ -37,7 +37,7 @@ The six laboratories included are:
 - **CST Studio Suite** – Antenna modeling, parameter sweeps, and radiation pattern analysis.  
 - **AWR Microwave Office** – Microwave circuit design, stub adapters, S-parameter analysis.  
 - **4NEC2** – Dipole simulations for radiation and impedance analysis.  
-- **MATLAB / Octave** – Numerical computations, plotting, and data analysis.  
+- **MATLAB** – Numerical computations, plotting, and data analysis.  
 - **TXLine tool** – Transmission line dimensioning and optimization.  
 - **nanoVNA** – Experimental measurement of S-parameters.  
 - **FR-4 / Isola DE104 substrates** – Physical prototyping of antennas and RF circuits.  
