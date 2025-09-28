@@ -4,7 +4,7 @@
 **Date of work:** May 20, 2024  
 **Contributors:** Project developed as part of a course. Collaborators are not listed here.
 
-## Short Summary
+## 📌 Short Summary
 
 This project involves the design, simulation, and construction of a directional coupler. The design was performed using AWR, including the TXLine tool to optimize transmission line widths and other key parameters. The simulation phase allowed the analysis of S-parameters, coupling factor, directivity, and isolation to ensure the directional coupler meets the desired performance specifications.
 
