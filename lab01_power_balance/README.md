@@ -4,7 +4,7 @@
 **Date of work:** March 25, 2024  
 **Contributors:** Project developed as part of a course. Collaborators are not listed here.
 
-## Short summary
+## 📌 Short Summary
 - Power balance on a resonant circuit (resonant vs off-resonant conditions).  
 - Numerical computation of radiated power, radiation resistance and directivity gain for dipoles at 2l = 0.25λ and 2l = 1.2λ.  
 - 4NEC simulations: radiation pattern, gain, SWR and reflection coefficient around the working frequency (2 GHz).
