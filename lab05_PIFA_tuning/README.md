@@ -1,7 +1,7 @@
 # Lab 05 – PIFA Antenna Tuning with CST
 
 **Course:** RF Antennas Laboratory (Bachelor, University of Bologna)  
-**Date of work:** May 20, 2024  
+**Date of work:** May 25, 2024  
 **Author:** Alberto Marrone
 
 ## 📌 Short summary
