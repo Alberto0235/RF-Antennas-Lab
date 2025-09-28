@@ -10,7 +10,7 @@ This project involves the design, simulation, and construction of a directional 
 
 The construction involved using adhesive copper on an FR-4 substrate (Isola DE104). The ground plane and coupler were cut from copper sheets according to the simulated dimensions. SMA female connectors were soldered for measurement, and performance verification was done using a nanoVNA.
 
-## Files Included
+## 📂 Included Files
 - `Homework4_Report.pdf` – Full report containing simulation results, circuit design, calculations, and practical construction details.
 
 ## How to Reproduce
@@ -22,3 +22,5 @@ Follow the instructions in the PDF for:
 **Reports:** CC BY 4.0 
 
 **Note:** Collaborators are not listed here.
+
+
