@@ -2,7 +2,7 @@
 
 **Course:** RF Antennas Laboratory (Bachelor, University of Bologna)  
 **Date of work:** March 25, 2024  
-**Contributors:** Project developed as part of a course. Collaborators are not listed here.
+**Contributors:** *Alberto Marrone
 
 ## 📌 Short Summary
 - Power balance on a resonant circuit (resonant vs off-resonant conditions).  
@@ -24,4 +24,4 @@ Reports: CC BY 4.0.
 Code / simulation files: MIT License.
 
 ## Notes
-The project was performed during the Bachelor RF course. Collaborators are not listed here.
+This project was performed individually by **Alberto Marrone** as part of the Bachelor RF Antennas Laboratory course.
