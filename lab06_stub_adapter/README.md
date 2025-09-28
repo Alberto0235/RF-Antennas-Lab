@@ -2,7 +2,7 @@
 # Lab 06 – Stub Adapter Design
 
 **Course:** RF Antennas Laboratory (Bachelor, University of Bologna)  
-**Date of work:** April 7, 2024  
+**Date of work:** June 6, 2024  
 **Contributors:** Project developed as part of a course. Collaborators are not listed here.
 
 ## 📌 Short Summary
