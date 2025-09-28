@@ -4,7 +4,7 @@
 **Date of work:** April 26, 2024  
 **Contributors:** Project developed as part of a course. Collaborators are not listed here.
 
-## Short Summary 
+## 📌 Short Summary
 This project involves the design, simulation, and practical construction of a patch (microstrip) antenna. The design and simulation were performed using CST Studio Suite, with optimizations on patch geometry, microstrip feed, ground plane, and inserts to improve antenna resonance and reflection coefficient. The practical construction involved cutting and assembling the patch, ground plane, and microstrip on an FR-4 substrate and connecting the antenna to an SMA female connector. Antenna performance was tested and verified using a nanoVNA.
 
 ## 📂 Included Files 
