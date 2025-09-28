@@ -9,7 +9,7 @@
 - Numerical computation of radiated power, radiation resistance and directivity gain for dipoles at 2l = 0.25λ and 2l = 1.2λ.  
 - 4NEC simulations: radiation pattern, gain, SWR and reflection coefficient around the working frequency (2 GHz).
 
-## Files Included
+## 📂 Included Files
 - `Homework1_Report.pdf` — Full report (English).  
 - `Dipole_0.25lambda.nec` — NEC model for the 0.25λ dipole.  
 - `Dipole_1.2lambda.nec` — NEC model for the 1.2λ dipole.  
