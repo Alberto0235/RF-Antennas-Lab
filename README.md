@@ -2,7 +2,7 @@
 
 **Course:** RF Antennas Laboratory (Bachelor's Degree in Electronic Engineering)  
 **University:** University of Bologna, Cesena Campus  
-**Scope:** Bachelor's degree course in Electronic Engineering  
+**Scope:** Bachelor's degree course in Electronics Engineering  
 
 ---
 
