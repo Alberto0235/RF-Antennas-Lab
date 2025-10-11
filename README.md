@@ -61,7 +61,7 @@ Each lab folder contains the **full report**; in some cases, simulation files ar
 
 ---
 
-## License
+## 📜 License
 
 - Reports: **CC BY 4.0**  
 - Simulation/Code files: **MIT License**  
